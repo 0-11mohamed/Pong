@@ -1,11 +1,9 @@
 canvas{
-    width: 400px;
-    height: 600px;
     display: block;
     margin: 0 auto;
     border: 4px solid;
     border-radius: 2%;
-    background-color: whitesmoke;
+    background-color: rgb(224, 224, 224);
 }
 
 body{
